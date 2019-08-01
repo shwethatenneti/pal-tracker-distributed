@@ -1,0 +1,6 @@
+###
+curl -i -X POST -H "Content-Type: application/json" https://allocations-pal-a-s.cfapps.io/registration -d '{"name": "Pete"}'
+
+###
+curl -i localhost:8883/users/<USER-ID>
+
